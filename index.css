@@ -1,0 +1,54 @@
+
+h2{
+background-color: black;
+color: white;
+font-size: 50px;
+font-family: "Elephant",cursive;
+text-align: center;
+}
+
+p{
+font-size: 25px;
+font-family: arial black;
+text-align: justify;
+text-decoration: underline;
+line-height: 25*1.5;
+}
+
+span{
+color: brown;
+font-size: 70px;
+text-decoration: underline;
+}
+
+P span{
+font-size: 60px;
+font-weight: 700px;
+}
+
+#second_para{
+       color:blueviolet;
+}
+
+#first_para{
+    color:burlywood;
+}
+
+a{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    width: 200px;
+    height: 60px;
+    display: block;
+    text-align: center;
+    line-height: 60px;
+     font-family: arial, black;
+}
+
+
+img{
+    width: 100%;
+    
+}
